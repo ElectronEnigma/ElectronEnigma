@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ElectronEnigma
 - 👀 I’m interested in Electronics
-- 🌱 I’m currently learning C
+- 🌱 I’m currently doing CS50x
 - 💞️ I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with C
+- 🤔 I’m looking for help with CS50
   
 
 <!---
